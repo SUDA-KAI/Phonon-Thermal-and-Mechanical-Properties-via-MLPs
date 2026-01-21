@@ -1,4 +1,5 @@
 # Phonon-Thermal-and-Mechanical-Properties-via-MLPs  
+![Project Logo](logo/logo.png)
 Key Features  
 --Structure Relaxation: Efficient crystal structure optimization.  
 --Mechanical Properties: Calculation of elastic constants (K, G, E, Poisson's ratio, etc.).  
